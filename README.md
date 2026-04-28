@@ -1,5 +1,5 @@
 # Logica_de_programação
-Logica_de_progrmação_em_PYTHON
+Curso Logica_de_progrmação_em_PYTHON
 
 ## Aulas:
 - Aula 1
